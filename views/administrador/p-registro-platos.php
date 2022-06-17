@@ -53,7 +53,7 @@ if (
 		}
 		echo "<h1 style='background-color:#CB0620;'>REGISTRADO CORRECTAMENTE</h1>";
 	} else {
-		echo "no se pudo crear";
+		echo "<h1 style='background-color:#CB0620;'>NO SE PUDO REGISTRAR EL PRODUCTO</h1>";
 	}
 }
 

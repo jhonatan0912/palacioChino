@@ -17,7 +17,7 @@ class MailTools
     $mail->Host = 'smtp.gmail.com';
     $mail->SMTPAuth = true;
     $mail->Username = 'i2125575@continental.edu.pe';
-    $mail->Password = 'elhvqyjivasecrwp';
+    $mail->Password = 'dwadadwa'; //? contraseña de aplicacion google
     $mail->SMTPSecure = 'tls';
     $mail->Port = 587;
 
